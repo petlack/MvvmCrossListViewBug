@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.192.168.56.101:5555" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ListViewBug.Core\ViewModels\TestListViewModel.cs">
+    <Files>
+      <File FileName="ListViewBug.Core\ViewModels\TestListViewModel.cs" Line="45" Column="45" />
+      <File FileName="ListViewBug.Droid\Views\TestListView.cs" Line="14" Column="14" />
+      <File FileName="ListViewBug.Core\ViewModels\TestListItemViewModel.cs" Line="15" Column="15" />
+      <File FileName="ListViewBug.Core\Services\Generator.cs" Line="13" Column="13" />
+      <File FileName="ListViewBug.Droid\Libraries\Aleph0ScrollListener.cs" Line="4" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ListViewBug.Droid MonoForAntroid.PreferredDevice="Nexus 4" />
+</Properties>

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListViewBug.Droid", "ListViewBug.Droid\ListViewBug.Droid.csproj", "{0069ECC9-1228-4930-99A4-1A224A36EC99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListViewBug.Core", "ListViewBug.Core\ListViewBug.Core.csproj", "{F4BE07A6-617B-48E3-9252-02DB02FB8D1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0069ECC9-1228-4930-99A4-1A224A36EC99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0069ECC9-1228-4930-99A4-1A224A36EC99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0069ECC9-1228-4930-99A4-1A224A36EC99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0069ECC9-1228-4930-99A4-1A224A36EC99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4BE07A6-617B-48E3-9252-02DB02FB8D1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4BE07A6-617B-48E3-9252-02DB02FB8D1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4BE07A6-617B-48E3-9252-02DB02FB8D1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4BE07A6-617B-48E3-9252-02DB02FB8D1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = ListViewBug.Droid\ListViewBug.Droid.csproj
+	EndGlobalSection
+EndGlobal
